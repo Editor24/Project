@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ImportUI</string>
+    <string name="Submit">I\'m in!</string>
+    <string name="imagename">Logo</string>
+    <string name="pass2">Confirm Password</string>
+    <string name="pass1">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="regtext">Let\'s get you registered!</string>
+    <string name="welcome">Welcome back to Motive!</string>
+    <string name="login">Let\'s Go</string>
+    <string name="next">Next</string>
+    <string name="dialog_title">Select Your Symptoms</string>
+    <string name="ok_lable">Ok</string>
+    <string name="dismiss_lable">Close</string>
+    <string name="clear_all">Clear All</string>
+    <string-array name="Symptoms">
+        <item> Depression </item>
+        <item> Bipolar disorder </item>
+        <item> Schizophrenia </item>
+        <item> Any personality disorders </item>
+        <item> Alcoholism </item>
+        <item> Substance abuse </item>
+        <item> Loneliness/Isolation </item>
+        <item> Inactivity </item>
+        <item> Self-harm </item>
+        <item> Anxiety </item>
+    </string-array>
+</resources>

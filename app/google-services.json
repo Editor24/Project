@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "710248515374",
+    "firebase_url": "https://importui-3d513.firebaseio.com",
+    "project_id": "importui-3d513",
+    "storage_bucket": "importui-3d513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710248515374:android:ceb63c1df6e3d11b",
+        "android_client_info": {
+          "package_name": "com.example.importui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710248515374-6btnconv4v6int5lbtjhul2d7cfe19gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsP0H2zgYGKno6GfbjzI99ro7ZE--92bM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
